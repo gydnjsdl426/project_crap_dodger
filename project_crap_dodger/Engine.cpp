@@ -38,14 +38,7 @@ void Engine::loop()
 		render();
 
 		// Gave over or level up
-		/*if (indi.life.size() <= 0)
-		{
-			GameOver();
-		}
-		else if (cur_score / 10 > level) {
-			ddongs.levelUp();
-			level++;
-		}*/
+
 	}
 }
 

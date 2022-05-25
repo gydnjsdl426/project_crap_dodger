@@ -11,4 +11,3 @@ public:
 	void upScore();
 	int update();
 };
-// aa

@@ -17,14 +17,8 @@ void Ddong::update(Score& score)
 		화면 밖을 벗어났을 때 destroyed, score 더하기
 	*/
 
-	/*if (pos.y > 890.0f)
-	{
-		destroyed = true;
-		score.upScore();
-	}*/
 
 	// 똥 기본 속도
-	// Dd.move(0.0f, 1.0f + speed);
 }
 
 void Ddong::draw(RenderWindow& _window){
